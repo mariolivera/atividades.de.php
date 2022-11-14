@@ -25,7 +25,7 @@ $retorno = $mysqli->query($leitura);
         <title>escola</title>
     </head>
     <body>
-       <table border= "1px">
+        <table border= "1px">
         <tr>
             <td>Id</td>
             <td>Aluno</td>
